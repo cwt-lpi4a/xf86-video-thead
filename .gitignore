@@ -1,0 +1,4 @@
+pkg
+src
+xf86-video-thead
+*.pkg.tar.zst
