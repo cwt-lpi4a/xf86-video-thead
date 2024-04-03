@@ -1,6 +1,6 @@
 # Maintainer: Chaiwat Suttipongsakul <cwt@bashell.com>
 pkgname="xf86-video-thead"
-pkgver=r18.7154f28
+pkgver=r26.31abac5
 pkgrel=1
 pkgdesc="DDX for TH1520"
 arch=('riscv64')
